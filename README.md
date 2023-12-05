@@ -16,7 +16,6 @@ and thats it
 
 enjoy
 
-btw if u have any issues u can start a new issue for that specific platform
-make sure to include node js versiom :3
+btw if u have any issues u can start a new issue for that specific platform, make sure to include node js version :3
 # Credits
 me - creating the bot and doing basically everything
